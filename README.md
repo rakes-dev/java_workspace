@@ -13,5 +13,6 @@ To run these programs, follow these steps:
 **4)** Run the program using the java command, for example: java HelloWorld
 
 **Requirements**
-Java Development Kit (JDK) 8 or later
+
+Java Development Kit (JDK) 8 or later\n
 A text editor or IDE of your choice
