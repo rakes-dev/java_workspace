@@ -14,5 +14,6 @@ To run these programs, follow these steps:
 
 **Requirements**
 
-Java Development Kit (JDK) 8 or later\n
+Java Development Kit (JDK) 8 or later
+
 A text editor or IDE of your choice
